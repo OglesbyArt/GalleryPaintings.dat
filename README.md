@@ -1,5 +1,25 @@
 GalleryPaintings.dat
 ====================
+Margret|Michelangelo|Universal Judge|Fri May 31 00:00:00 CST 1504|masterwork|0.0|0.0|medium|subject|25000.0|Sat Sep 11 00:00:00 CDT 2010|Jack Tyler|1254 Garfield Dr.|23000.0|49450.0|
+Abigail|Bosch|The Garden of Delights|Mon Jan 01 00:00:00 CST 1504|masterpiece|0.0|0.0|oil|subject|14999.0|Mon Dec 31 00:00:00 CST 2012|Jane Goodman|1894 Westminster Dr.|10000.0|21500.0|
+Goeree|Jan|Christ's Entry Into Jerusalem|Mar 01 00:00:00 CST 1696|other|12.78|8.1|other|landscape|6200|Aug 19 00:00:00 CST 2003|Joseph Gordan|78 34th Ave.|11000.99|23652.13|
+null|null|Rank Badge with Lion of Asia|Mar 01 00:00:00 CST 1644|other|10.25|9.75|other|subject|1000|Jul 1 00:00:00 CST 2006|Harrison Red|600 Nye St.|1500|3225|
+Moses B.|Russell|Portrait of a Lady|Apr 01 00:00:00 CST 1825|masterwork|5|3.87|watercolor|subject|8700|Sept 13 00:00:00 CST 2009|Georgia Armo|4523 Seasame St.|7800|16770|
+null|null|Shakra Enthroned|Jan 01 00:00:00 CST 1400|masterpiece|4.25|10.325|watercolor|subject|19430|Nov 13 00:00:00 CST 2011|Ricky Roberts|123 45th Ave.|54000|116100|
+Jian|Wang|Landscapes in the Styles of Old Masters|Jan 01 00:00:00 CST 1650|masterwork|5.25|7.45|other|landscape|27000|Dec 31 00:00:00 CST 2013|Nancy Dickens|400 Robert St. N.|29500|63245|
+John|Atherton|The Black Horse|Jan 01 00:00:00 CST 1942|masterpiece|37.75|52|oil|landscape|2300|Dec 31 00:00:00 CST 2013|John Doade|6543 Harold Dr.|4599|9887.85|
+null|null|Painting of a Dancer|Jan 01 00:00:00 CST 1812|other|41.31|27.87|oil|portrait|8000|May 31 00:00:00 CST 2011|Lilly Flowers|900 W. Minster Ave.|4500|9675|
+Henri de|Toulouse-Lautrec|Jan 01 00:00:00 CST 1896|other|24.75|31.975|oil|portrait|30400|May 31 00:00:00 CST 2011|Lilly Flowers|900 W. Minster Ave.|15000|32250|
+Gerard|David|Holy Face|Jan 01 00:00:00 CST 1485|masterpiece|3.6|2.2|other|portrait|2000|Jun 15 00:00:00 CST 2008|John Grogan|500 Tyler Rd.|4000|8600|Apr 1 00:00:00 CST 2010|Ty Coppers|873 West Kosher Dr.|7500|
+Paul|Klee|Theater-Mountain-Construction|Jan 01 00:00:00 CST 1920|masterwork|13|16.5|oil|other|57000|Jun 15 00:00:00 CST 2008|Fidel Froil|2000 Rondo Pl.|67000|144050|Apr 1 00:00:00 CST 2013|Yeti Yolanda|987 Eadan Cir.|125000|
+Jean|Dubuffet|Bedouins et palmier|Jan 01 00:00:00 CST 1948|other|17.325|21.75|other|portrait|15000|Jun 15 00:00:00 CST 1994|Richard Boyle|4322 Hartford Pl.|19000|40850|Nov 1 00:00:00 CST 2005|Renae Pitts|8700 Garfield Dr.|20000|
+Pavel Petrovich|Svinin|After the Tornado|Jan 01 00:00:00 CST 1811|other|7.5|10|watercolor|landscape|20900|Jun 15 00:00:00 CST 1997|Edgar Solaz|543 Sunshine Way|10000|21500|Sept 1 00:00:00 CST 2010|Tyler Roberts|7655 Hartland Pl.|25000|
+Camille|Pissarro|The Garden of the Tuileries on a Winter Afternoon|Jan 01 00:00:00 CST 1899|masterwork|28.9|36.3|oil|landscape|12034|Jun 29 00:00:00 CST 1999|Quinn Jacobs|65 W 32nd St.|13000|27950|Sept 1 00:00:00 CST 2010|Adam Johnson|200 N Thomas Ave.|14000|
+Rouen|French|Vase of Flowers in a Niche|Jan 01 00:00:00 CST 1726|masterwork|48.325|55|oil|still-life|15000|Dec 15 00:00:00 CST 1999|Bob Dylan|1522 Golden Cir.|12500|26875|Apr 21 00:00:00 CST 2010|Bob Saget|500 Hollywood Pl.|27000|
+Anselm|Kiefer|From Oscar Wilde|Jan 01 00:00:00 CST 1974|other|15.75|11.75|watercolor|still-life|5400|Mar 23 00:00:00 CST 2002|Heather Nolland|643 E 57th Ave.|6000|12900|Apr 3 00:00:00 CST 2012|Vince Moss|488 Barney Ln.|4000|
+Walt|Kuhn|Apples from Maine|Jan 21 00:00:00 CST 1932|other|30|40|oil|still-life|2100|May 30 00:00:00 CST 2004|Johnny Kilgrew|5000 Babcock Dr.|6015|12932.25|Jul 3 00:00:00 CST 2009|Lance Voss|21 SE Main St.|5000|
+Benedetto|Luti|Study of a Girl in Red|Jan 01 00:00:00 CST 1717|masterpiece|16.5|13.25|other|portrait|40980|Jan 01 00:00:00 CST 2005|Kennedy Johnston|5000 France Dr.|50000|107500|Jan 01 00:00:00 CST 2006|Gurtrude Solaz|500 Inglewood Dr.|67000|
+Pierre Puvis de|Chanvannes|The Sheperd's Song|Jan 01 00:00:00 CST 1891|masterwork|41.125|43.25|oil|portrait|23400|Jan 31 00:00:00 CST 2000|Jaque Fickee|6700 Highland Cir.|24000|51600|Oct 01 00:00:00 CST 2007|Inger Nelson|2300 Starlight Ave.|32050|
 T|Michelangelo|Universal Judge| 1/1/1541|landscape|40|30|medium|subject|25000|09/11/10|Jack Tyler|1254 Garfield Dr.|23000|49450|04/16/13|Trick Ster|1500 Goldrush Ave.|39000
 A|Bosch|The Garden of Delights| 1/1/1504|portrait|15|15|oil|subject|14999|12/31/12|Jane Goodman|1894 Westminster Dr.|10000|21500|
 Edvard|Munch|The Scream|1/1/1893|portrait|36|29|oil|subject|140000|04/3/12|Jake Erickson|1994 Antalope Dr.|140000|200000|
