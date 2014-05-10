@@ -42,3 +42,22 @@ Johannes|Vermeer|The Astronomer|1/1/1668|portrait|20|18|oil|subject|20000|7/7/13
 Claude|Monet|The Luncheon|1/1/1868|portrait|51|14|oil|subject|40000|1/7/10|
 Claude|Monet|La plage de Trouville|1/1/1870|portrait|58|48|oil|subject|50000|1/7/14|
 Claude|Monet|The Magpie|1/1/1868|portrait|34|26|oil|subject|30000|2/12/14|
+B|Ever|David|Jan 01 00:00:00 CST 1650|masterwork|56|12|oil|portrait|33000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|33000|33450|01/16/14|John Johnson|777 193rd St. W|8890|7362|
+C|Har|Mother|Jan 01 00:00:00 CST 1900|masterpiece|45|11|oil|other|54000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|23000|23450|01/16/14|Nancy Dickens|400 Robert St. N.|7443|9000|
+D|Hay|Father|Jan 01 00:00:00 CST 1900|masterwork|44|23|other|other|34000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|77000|32450|04/16/14|Nick Nickson|22 Crook St.|8890|7362|
+E|Jay|Silk Road|Jan 01 00:00:00 CST 1900|other|45|33|oil|portrait|34000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|54000|22450|03/16/13|John Johnson|777 193rd St. W|7443|9000|
+F|Power|Water Bottle|Jan 01 00:00:00 CST 1900|masterwork|66|44|other|other|55000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|88000|11450|01/16/14|Nick Nickson|400 Robert St. N.|7443|9000|
+G|Aide|Almonds|Jan 01 00:00:00 CST 1900|masterpiece|34|32|oil|portrait|33000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|90000|32450|01/16/14|Nick Nickson|400 Robert St. N.|8890|7362|
+H|Litel|Coffee Cup|Jan 01 00:00:00 CST 1900|landscape|23|33|other|other|33000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|34000|33450|04/16/14|Nancy Dickens|400 Robert St. N.|7443|9000|
+I|Jaie|Helmet|Jan 01 00:00:00 CST 1650|other|10|21|oil|portrait|23000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|32000|21450|03/16/13|Nick Nickson|22 Crook St.|8890|7362|
+J|Nelson|Hockey Games|Jan 01 00:00:00 CST 1900|other|22|54|other|other|22000|Dec 31 00:00:00 CST 2010|Jack Tyler|1254 Garfield Dr.|32000|22450|04/16/13|John Johnson|777 193rd St. W|7443|9000|
+K|Jeory|Tennis Matches|Jan 01 00:00:00 CST 1900|masterpiece|20|33|other|portrait|32000|Dec 31 00:00:00 CST 2013|Jane Goodman|1522 Golden Cir.|21000|88450|Nick Nickson|22 Crook St.|7443|9000|
+L|Jaieke|Checking|Jan 01 00:00:00 CST 1900|masterwork|34|21|other|other|23000|Dec 31 00:00:00 CST 2010|Jack Tyler|1254 Garfield Dr.|23000|89450|04/16/14|Nancy Dickens|400 Robert St. N.|7443|9000|
+M|Layson|Glasses|Jan 01 00:00:00 CST 1650|other|66|32|oil|other|22000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|23000|43450|03/16/13|Nick Nickson|22 Crook St.|7443|9000|
+N|Micky|Shirts and Shorts|Jan 01 00:00:00 CST 1900|masterpiece|67|33|other|portrait|12000|Dec 31 00:00:00 CST 2010|Jack Tyler|1254 Garfield Dr.|54000|32450|01/16/14|Nick Nickson|22 Crook St.|7443|9000|
+O|Nicky|Figure it Out|Jan 01 00:00:00 CST 1900|masterwork|32|21|other|other|23000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|43000|23450|01/16/14|John Johnson|777 193rd St. W|7443|9000|
+P|Mouse|Cartoons|Jan 01 00:00:00 CST 1650|other|21|23|oil|other|44000|Dec 31 00:00:00 CST 2013|Jack Tyler|1522 Golden Cir.|32000|45450|04/16/13|Nancy Dickens|22 Crook St.|7443|9000|
+Q|Coxie|Cards|Jan 01 00:00:00 CST 1900|other|32|67|oil|portrait|33000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|23000|44450|04/16/14|John Johnson|777 193rd St. W|8890|7362|
+R|Roxie|Mask|Jan 01 00:00:00 CST 1300|other|43|67|other|other|23000|Dec 31 00:00:00 CST 2013|Jack Tyler|1254 Garfield Dr.|11000|33450|01/16/14|Nick Nickson|22 Crook St.|7443|9000|
+S|Game|Movies|Jan 01 00:00:00 CST 1300|masterpiece|22|44|oil|other|54000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|23000|32450|04/16/14|John Johnson|777 193rd St. W|7443|9000|
+T|Time|Ice|Jan 01 00:00:00 CST 1300|other|22|21|other|portrait|32000|Dec 31 00:00:00 CST 2013|Jack Tyler|1522 Golden Cir.|32000|22450|04/16/13|Nancy Dickens|400 Robert St. N.|7443|9000|
