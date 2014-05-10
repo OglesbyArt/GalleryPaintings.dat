@@ -20,13 +20,13 @@ Anselm|Kiefer|From Oscar Wilde|Jan 01 00:00:00 CST 1974|other|15.75|11.75|waterc
 Walt|Kuhn|Apples from Maine|Jan 21 00:00:00 CST 1932|other|30|40|oil|still-life|2100|May 30 00:00:00 CST 2004|Johnny Kilgrew|5000 Babcock Dr.|6015|12932.25|Jul 3 00:00:00 CST 2009|Lance Voss|21 SE Main St.|5000|
 Benedetto|Luti|Study of a Girl in Red|Jan 01 00:00:00 CST 1717|masterpiece|16.5|13.25|other|portrait|40980|Jan 01 00:00:00 CST 2005|Kennedy Johnston|5000 France Dr.|50000|107500|Jan 01 00:00:00 CST 2006|Gurtrude Solaz|500 Inglewood Dr.|67000|
 Pierre Puvis de|Chanvannes|The Sheperd's Song|Jan 01 00:00:00 CST 1891|masterwork|41.125|43.25|oil|portrait|23400|Jan 31 00:00:00 CST 2000|Jaque Fickee|6700 Highland Cir.|24000|51600|Oct 01 00:00:00 CST 2007|Inger Nelson|2300 Starlight Ave.|32050|
-T|Michelangelo|Universal Judge| 1/1/1541|landscape|40|30|medium|subject|25000|09/11/10|Jack Tyler|1254 Garfield Dr.|23000|49450|04/16/13|Trick Ster|1500 Goldrush Ave.|39000
-A|Bosch|The Garden of Delights| 1/1/1504|portrait|15|15|oil|subject|14999|12/31/12|Jane Goodman|1894 Westminster Dr.|10000|21500|
-Edvard|Munch|The Scream|1/1/1893|portrait|36|29|oil|subject|140000|04/3/12|Jake Erickson|1994 Antalope Dr.|140000|200000|
-Edvard|Munch|Madonna|1/1/1895|portrait|35|27|oil|subject|20000|10/1/13|Jake Erickson|1994 Antalope Dr.|18000|22000|
-Pablo|Picasso|Guernica|1/1/1937|portrait|137|305|oil|subject|149999|2/1/10|Robert Hansen|2001 Summit Ave.|100000|215000|
-Pablo|Picasso|The Old Guitarist|1/1/1903|portrait|48|32|oil|subject|220000|1/31/14|Robert Hansen|2001 Summit Ave.|250000|240000|
-Pablo|Picasso|Head|1/1/1914|portrait|43|33|oil|subject|140000|5/5/12|Carl Clark|2856 57th Ave.|180000|150000|
+T|Michelangelo|Universal Judge| Jan 01 00:00:00 CST 1541|landscape|40|30|medium|subject|25000|09/11/10|Jack Tyler|1254 Garfield Dr.|23000|49450|04/16/13|Trick Ster|1500 Goldrush Ave.|39000
+A|Bosch|The Garden of Delights|Jan 01 00:00:00 CST 1504|other|15|15|oil|subject|14999|Jan 01 00:00:00 CST 2012|Jane Goodman|1894 Westminster Dr.|10000|21500|
+Edvard|Munch|The Scream|Jan 01 00:00:00 CST 1893|masterpiece|36|29|oil|subject|140000|May 01 00:00:00 CST 2012|Jake Erickson|1994 Antalope Dr.|140000|200000|
+Edvard|Munch|Madonna|Jan 01 00:00:00 CST 1895|masterwork|35|27|oil|subject|20000|Oct 01 00:00:00 CST 2013|Jake Erickson|1994 Antalope Dr.|18000|22000|
+Pablo|Picasso|Guernica|Jan 01 00:00:00 CST 1937|masterwork|137|305|oil|subject|149999|Jan 01 00:00:00 CST 1991|Robert Hansen|2001 Summit Ave.|100000|215000|
+Pablo|Picasso|The Old Guitarist|Jan 01 00:00:00 CST 1903|masterwork|48|32|oil|subject|220000|Jan 31 00:00:00 CST 2014|Robert Hansen|2001 Summit Ave.|250000|240000|
+Pablo|Picasso|Head|Jan 01 00:00:00 CST 1914|masterwork|43|33|oil|subject|140000|May 05 00:00:00 CST 2013|Carl Clark|2856 57th Ave.|180000|150000|
 Rembrandt|Rijn|The Night Watch|1/1/1642|portrait|143|172|oil|subject|250000|5/9/12|Carl Clark|2856 57th Ave.|290000|290000|
 Sandro|Botticelli|The Birth of Venus|1/1/1486|portrait|68|110|tempera|subject|2300000|4/5/14|
 Sandro|Botticelli|Primavera|1/1/1482|portrait|80|124|tempera|subject|2000000|10/5/13|
