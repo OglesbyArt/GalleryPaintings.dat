@@ -27,22 +27,22 @@ Edvard|Munch|Madonna|Jan 01 00:00:00 CST 1895|masterwork|35|27|oil|subject|20000
 Pablo|Picasso|Guernica|Jan 01 00:00:00 CST 1937|masterwork|137|305|oil|subject|149999|Jan 01 00:00:00 CST 1991|Robert Hansen|2001 Summit Ave.|100000|215000|
 Pablo|Picasso|The Old Guitarist|Jan 01 00:00:00 CST 1903|masterwork|48|32|oil|subject|220000|Jan 31 00:00:00 CST 2014|Robert Hansen|2001 Summit Ave.|250000|240000|
 Pablo|Picasso|Head|Jan 01 00:00:00 CST 1914|masterwork|43|33|oil|subject|140000|May 05 00:00:00 CST 2013|Carl Clark|2856 57th Ave.|180000|150000|
-Rembrandt|Rijn|The Night Watch|1/1/1642|portrait|143|172|oil|subject|250000|5/9/12|Carl Clark|2856 57th Ave.|290000|290000|
-Sandro|Botticelli|The Birth of Venus|1/1/1486|portrait|68|110|tempera|subject|2300000|4/5/14|
-Sandro|Botticelli|Primavera|1/1/1482|portrait|80|124|tempera|subject|2000000|10/5/13|
-Edgar|Degas|Interior|1/1/1868|portrait|32|45|oil|subject|20000|1/5/14|
-Jackson|Pollock|No. 5 1948|1/1/1950|portrait|68|110|oil|subject|14000|12/15/13|
-Marcel|Duchamp|Nude Descending a Staircase, No. 2|1/1/1912|portrait|58|35|oil|subject|20000|11/7/13|
-Marcel|Duchamp|Nude Sad Young Man on a Train|1/1/1912|portrait|100|73|oil|subject|18000|11/7/13|
-Marcel|Duchamp|The Large Glass|1/1/1923|portrait|109|70|oil|subject|22000|11/7/13|
-Johannes|Vermeer|The Art of Painting|1/1/1666|portrait|51|14|oil|subject|20000|7/7/13|
-Johannes|Vermeer|The Geographer|1/1/1668|portrait|20|18|oil|subject|10000|1/7/13|
-Johannes|Vermeer|The Milkmaid|1/1/1658|portrait|18|16|oil|subject|9000|7/9/13|
-Johannes|Vermeer|The Astronomer|1/1/1668|portrait|20|18|oil|subject|20000|7/7/13|
-Claude|Monet|The Luncheon|1/1/1868|portrait|51|14|oil|subject|40000|1/7/10|
-Claude|Monet|La plage de Trouville|1/1/1870|portrait|58|48|oil|subject|50000|1/7/14|
-Claude|Monet|The Magpie|1/1/1868|portrait|34|26|oil|subject|30000|2/12/14|
-B|Ever|David|Jan 01 00:00:00 CST 1650|masterwork|56|12|oil|portrait|33000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|33000|33450|01/16/14|John Johnson|777 193rd St. W|8890|7362|
+Rembrandt|Rijn|The Night Watch|Jan 01 00:00:00 CST 1642|other|143|172|oil|subject|250000|Jan 11 00:00:00 CST 2013|Carl Clark|2856 57th Ave.|290000|290000|
+Sandro|Botticelli|The Birth of Venus|Jan 01 00:00:00 CST 1486|masterwork|68|110|tempera|subject|2300000|Apr 14 00:00:00 CST 2014|Jane Jensen|1554 Valhalla Dr.|250000|260000|01/16/14|John Johnson|777 193rd St. W|280000|
+Sandro|Botticelli|Primavera|Jan 01 00:00:00 CST 1482|masterwork|80|124|tempera|subject|2000000|May 21 00:00:00 CST 2013|Jane Engebretsen|1254 Garfield Dr.|2100000|2500000|01/16/14|Snoop Johnson|777 193rd St. W|2500000|
+Edgar|Degas|Interior|Jan 01 00:00:00 CST 1868|other|32|45|oil|subject|20000|Jan 14 00:00:00 CST 2014|Cent Godman|1254 Garfield Dr.|30000|33450|01/16/14|Fifty Johnson|777 193rd St. W|35000|
+Jackson|Pollock|No. 5 1948|Jan 01 00:00:00 CST 1950|other|68|110|oil|subject|14000|Jul 07 00:00:00 CST 2013|Jane Goodgirl|1254 Garfield Dr.|15000|17000|01/16/14|John Miller|777 193rd St. W|12500|
+Marcel|Duchamp|Nude Descending a Staircase, No. 2|Jan 01 00:00:00 CST 1912|other|58|35|oil|subject|20000|Nov 09 00:00:00 CST 2013|Cent Godmane|1254 Garfield Dr.|30000|33450|01/16/14|Fifty Dog|777 193rd St. W|35000|
+Marcel|Duchamp|Nude Sad Young Man on a Train|Jan 01 00:00:00 CST 1912|other|100|73|oil|subject|18000|Jun 12 00:00:00 CST 2010|Cent Godman|1254 Garfield Dr.|25000|37450|01/16/14|Fifty Thuglife|777 193rd St. W|38000|
+Marcel|Duchamp|The Large Glass|Jan 01 00:00:00 CST 1923|other|109|70|oil|subject|22000|Sep 21 00:00:00 CST 2009|Cent Snoop|1254 Garfield Dr.|30000|33450|01/16/14|Fifty Hardcore|777 193rd St. W|35000|
+Johannes|Vermeer|The Art of Painting|Jan 01 00:00:00 CST 1666|masterwork|51|14|oil|subject|20000|Apr 05 00:00:00 CST 2003|Cent Godman|1254 Garfield Dr.|30000|33450|01/16/14|Fifty John|777 193rd St. W|35000|
+Johannes|Vermeer|The Geographer|Jan 01 00:00:00 CST 1668|masterwork|20|18|oil|subject|10000|Jan 07 00:00:00 CST 2013|Cent Godman|1254 Garfield Dr.|12000|16000|01/16/14|Fifty Johnson|777 193rd St. W|17000|
+Johannes|Vermeer|The Milkmaid|Jan 01 00:00:00 CST 1658|masterwork|18|16|oil|subject|9000|Feb 14 00:00:00 CST 2012|Thug Life|1254 Garfield Dr.|10000|11000|01/16/14|Booty Juice|777 193rd St. W|11500|
+Johannes|Vermeer|The Astronomer|Jan 01 00:00:00 CST 1667|masterwork|20|18|oil|subject|20000|Oct 05 00:00:00 CST 2013|Hola Senior|1254 Garfield Dr.|30000|33450|01/16/14|Fifty Haha|777 193rd St. W|35000|
+Claude|Monet|The Luncheon|Jan 01 00:00:00 CST 1868|masterwork|51|14|oil|subject|40000|Nov 21 00:00:00 CST 2010|Clinton Dix|1254 Garfield Dr.|30000|33450|01/16/14|Haha Lame|777 193rd St. W|35000|
+Claude|Monet|La plage de Trouville|Jan 01 00:00:00 CST 1860|masterwork|58|48|oil|subject|50000|Oct 05 00:00:00 CST 2014|Lol Notreally|1254 Garfield Dr.|30000|33450|01/16/14|Rofl Mao|777 193rd St. W|35000|
+Claude|Monet|The Magpie|Jan 01 00:00:00 CST 1865|masterwork|34|26|oil|subject|30000|Nov 28 00:00:00 CST 2013|Panda Bear|1254 Garfield Dr.|30000|33450|01/16/14|Old Guy|777 193rd St. W|35000|
+B|Ever|David|Jan 01 00:00:00 CST 1650|masterwork|56|12|oil|portrait|33000|Dec 31 00:00:00 CST 2013|Jim Bob|1254 Garfield Dr.|33000|33450|01/16/14|John John|777 193rd St. W|8890|7362|
 C|Har|Mother|Jan 01 00:00:00 CST 1900|masterpiece|45|11|oil|other|54000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|23000|23450|01/16/14|Nancy Dickens|400 Robert St. N.|7443|9000|
 D|Hay|Father|Jan 01 00:00:00 CST 1900|masterwork|44|23|other|other|34000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|77000|32450|04/16/14|Nick Nickson|22 Crook St.|8890|7362|
 E|Jay|Silk Road|Jan 01 00:00:00 CST 1900|other|45|33|oil|portrait|34000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|54000|22450|03/16/13|John Johnson|777 193rd St. W|7443|9000|
