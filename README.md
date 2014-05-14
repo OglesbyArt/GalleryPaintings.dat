@@ -1,5 +1,5 @@
-GalleryPaintings.dat
-====================
+GalleryPainting.dat
+--------------------------
 Margret|Michelangelo|Universal Judge|Fri May 31 00:00:00 CST 1504|masterwork|0.0|0.0|medium|subject|25000.0|Sat Sep 11 00:00:00 CDT 2010|Jack Tyler|1254 Garfield Dr.|23000.0|49450.0|
 Abigail|Bosch|The Garden of Delights|Mon Jan 01 00:00:00 CST 1504|masterpiece|0.0|0.0|oil|subject|14999.0|Mon Dec 31 00:00:00 CST 2012|Jane Goodman|1894 Westminster Dr.|10000.0|21500.0|
 Goeree|Jan|Christ's Entry Into Jerusalem|Mar 01 00:00:00 CST 1696|other|12.78|8.1|other|landscape|6200|Aug 19 00:00:00 CST 2003|Joseph Gordan|78 34th Ave.|11000.99|23652.13|
@@ -9,7 +9,7 @@ null|null|Shakra Enthroned|Jan 01 00:00:00 CST 1400|masterpiece|4.25|10.325|wate
 Jian|Wang|Landscapes in the Styles of Old Masters|Jan 01 00:00:00 CST 1650|masterwork|5.25|7.45|other|landscape|27000|Dec 31 00:00:00 CST 2013|Nancy Dickens|400 Robert St. N.|29500|63245|
 John|Atherton|The Black Horse|Jan 01 00:00:00 CST 1942|masterpiece|37.75|52|oil|landscape|2300|Dec 31 00:00:00 CST 2013|John Doade|6543 Harold Dr.|4599|9887.85|
 null|null|Painting of a Dancer|Jan 01 00:00:00 CST 1812|other|41.31|27.87|oil|portrait|8000|May 31 00:00:00 CST 2011|Lilly Flowers|900 W. Minster Ave.|4500|9675|
-Henri de|Toulouse-Lautrec|Jan 01 00:00:00 CST 1896|other|24.75|31.975|oil|portrait|30400|May 31 00:00:00 CST 2011|Lilly Flowers|900 W. Minster Ave.|15000|32250|
+Henri de|Toulouse-Lautrec|Unknown?|Jan 01 00:00:00 CST 1896|other|24.75|31.975|oil|portrait|30400|May 31 00:00:00 CST 2011|Lilly Flowers|900 W. Minster Ave.|15000|32250|
 Gerard|David|Holy Face|Jan 01 00:00:00 CST 1485|masterpiece|3.6|2.2|other|portrait|2000|Jun 15 00:00:00 CST 2008|John Grogan|500 Tyler Rd.|4000|8600|Apr 1 00:00:00 CST 2010|Ty Coppers|873 West Kosher Dr.|7500|
 Paul|Klee|Theater-Mountain-Construction|Jan 01 00:00:00 CST 1920|masterwork|13|16.5|oil|other|57000|Jun 15 00:00:00 CST 2008|Fidel Froil|2000 Rondo Pl.|67000|144050|Apr 1 00:00:00 CST 2013|Yeti Yolanda|987 Eadan Cir.|125000|
 Jean|Dubuffet|Bedouins et palmier|Jan 01 00:00:00 CST 1948|other|17.325|21.75|other|portrait|15000|Jun 15 00:00:00 CST 1994|Richard Boyle|4322 Hartford Pl.|19000|40850|Nov 1 00:00:00 CST 2005|Renae Pitts|8700 Garfield Dr.|20000|
@@ -49,9 +49,6 @@ E|Jay|Silk Road|Jan 01 00:00:00 CST 1900|other|45|33|oil|portrait|34000|Dec 31 0
 F|Power|Water Bottle|Jan 01 00:00:00 CST 1900|masterwork|66|44|other|other|55000|Dec 31 00:00:00 CST 2013|Jane Goodman|1254 Garfield Dr.|88000|11450|01/16/14|Nick Nickson|400 Robert St. N.|7443|9000|
 G|Aide|Almonds|Jan 01 00:00:00 CST 1900|masterpiece|34|32|oil|portrait|33000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|90000|32450|01/16/14|Nick Nickson|400 Robert St. N.|8890|7362|
 H|Litel|Coffee Cup|Jan 01 00:00:00 CST 1900|landscape|23|33|other|other|33000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|34000|33450|04/16/14|Nancy Dickens|400 Robert St. N.|7443|9000|
-I|Jaie|Helmet|Jan 01 00:00:00 CST 1650|other|10|21|oil|portrait|23000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|32000|21450|03/16/13|Nick Nickson|22 Crook St.|8890|7362|
-J|Nelson|Hockey Games|Jan 01 00:00:00 CST 1900|other|22|54|other|other|22000|Dec 31 00:00:00 CST 2010|Jack Tyler|1254 Garfield Dr.|32000|22450|04/16/13|John Johnson|777 193rd St. W|7443|9000|
-K|Jeory|Tennis Matches|Jan 01 00:00:00 CST 1900|masterpiece|20|33|other|portrait|32000|Dec 31 00:00:00 CST 2013|Jane Goodman|1522 Golden Cir.|21000|88450|Nick Nickson|22 Crook St.|7443|9000|
 L|Jaieke|Checking|Jan 01 00:00:00 CST 1900|masterwork|34|21|other|other|23000|Dec 31 00:00:00 CST 2010|Jack Tyler|1254 Garfield Dr.|23000|89450|04/16/14|Nancy Dickens|400 Robert St. N.|7443|9000|
 M|Layson|Glasses|Jan 01 00:00:00 CST 1650|other|66|32|oil|other|22000|Dec 31 00:00:00 CST 2010|Jane Goodman|1254 Garfield Dr.|23000|43450|03/16/13|Nick Nickson|22 Crook St.|7443|9000|
 N|Micky|Shirts and Shorts|Jan 01 00:00:00 CST 1900|masterpiece|67|33|other|portrait|12000|Dec 31 00:00:00 CST 2010|Jack Tyler|1254 Garfield Dr.|54000|32450|01/16/14|Nick Nickson|22 Crook St.|7443|9000|
